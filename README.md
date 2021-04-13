@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ionfeather
 - 👀 I’m interested in volunteering and badminton.
-- 🌱 I’m currently learning python,R and hadoop.
+- 🌱 I’m currently learning python, R and hadoop.
 - 💞️ I’m looking to collaborate on study and communicate with you.
 - 📫 You can reach me at lizishadowmay@gmail.com
 
