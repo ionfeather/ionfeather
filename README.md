@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 📕 My LeetCode
   <p align="center">
-     <img src="https://stats.justsong.cn/api/leetcode?username=sleepy-vvozniakhtl&cn=true">
+     <img src="https://stats.justsong.cn/api/leetcode?username=lizishadow&cn=true">
   </p>
 - 👜 My NowCoder
   <p align="center">
