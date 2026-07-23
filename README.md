@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ionfeather
 - 👀 I’m interested in running and badminton.
-- ✨ My major is statistics.
+- ✨ My major is Computer Technology.
 - 🌱 I’m currently learning LLM Agent.
 - 📕 My LeetCode
   <p align="center">
